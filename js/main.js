@@ -388,7 +388,7 @@
         });
     };
 
-
+console.log('website developed by Kareem Elsabrouty 13/06/2025');
    /* mailchimp form
     * ---------------------------------------------------- */ 
     const ssMailChimpForm = function() {
